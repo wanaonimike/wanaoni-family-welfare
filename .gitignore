@@ -1,9 +1,17 @@
+# Jekyll/GitHub Pages ignores
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+/vendor
+Gemfile.lock
+
 # Node dependencies
 node_modules/
 
 # Backups
 backups/
 
-# Env files
+# Environment files
 .env
 
