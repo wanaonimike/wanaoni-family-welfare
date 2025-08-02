@@ -1,10 +1,9 @@
-# dependencies
+# Node dependencies
 node_modules/
 
-# backups
+# Backups
 backups/
 
-# environment
-.env
+# Env files
 .env
 
